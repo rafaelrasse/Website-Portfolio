@@ -383,8 +383,10 @@ nav .fa-solid{
 }
 
 .company-logo {
-    width: 40px;  /* Adjust the size as needed */
-    height: auto; /* Maintain aspect ratio */
+    width: 20px;  /* Adjust the size as needed */
+    height: 20px; /* Maintain aspect ratio */
+    max-width: 20px;
+    max-height: 20px;
     vertical-align: middle; /* Align the logo with the text */
     margin-right: 8px; /* Space between the logo and text */
 }
