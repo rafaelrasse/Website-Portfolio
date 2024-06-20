@@ -375,6 +375,9 @@ nav .fa-solid{
     .copyright{
         font-size: 14px;
     }
+    .company-logo {
+        width: 30px; /* Adjust the size as needed */
+    }
 }
 #msg{
     color: #00ff22;
