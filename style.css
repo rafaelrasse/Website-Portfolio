@@ -381,3 +381,10 @@ nav .fa-solid{
     margin-top: -30px;
     display: block;
 }
+
+.company-logo {
+    width: 40px;  /* Adjust the size as needed */
+    height: auto; /* Maintain aspect ratio */
+    vertical-align: middle; /* Align the logo with the text */
+    margin-right: 8px; /* Space between the logo and text */
+}
